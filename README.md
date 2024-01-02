@@ -1,4 +1,4 @@
-# uas# Laporan Proyek Machine Learning
+# Laporan Proyek Machine Learning
 ### Nama : Livia
 ### Nim : 211351075
 ### Kelas : Teknik Informatika Pagi B
